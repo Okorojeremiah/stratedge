@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 31 Oct 2023 10:05:09 at http://nimbletechng.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://nimbletechng.com/ -O1 "C:\Users\Jerry\Desktop\StratEdge Solutions\www.nimbletechng.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:07:24	Error: 	"Not Found" (404) at link nimbletechng.com/feed/ (from nimbletechng.com/)
+10:07:24	Error: 	"Not Found" (404) at link nimbletechng.com/comments/feed/ (from nimbletechng.com/)
+10:07:24	Error: 	"Not Found" (404) at link nimbletechng.com/home-extended/feed/ (from nimbletechng.com/)
+10:09:15	Error: 	"Not Found" (404) at link nimbletechng.com/wp-json/ (from nimbletechng.com/)
+10:09:15	Error: 	"Not Found" (404) at link nimbletechng.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnimbletechng.com%2F (from nimbletechng.com/)
+10:09:15	Error: 	"Not Found" (404) at link nimbletechng.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnimbletechng.com%2F&format=xml (from nimbletechng.com/)
+10:09:17	Warning: 	Retry after error -4 (No data (connection closed)) at link nimbletechng.com/wp-content/themes/salient/img/icons/social/vimeo-header-black.png (from nimbletechng.com/wp-content/themes/salient/style.css?ver=7.0.7)
+10:09:17	Error: 	"Not Found" (404) at link nimbletechng.com/wp-content/themes/salient/img/icons/social/behance-header-black.png (from nimbletechng.com/wp-content/themes/salient/style.css?ver=7.0.7)
+10:09:18	Error: 	"Not Found" (404) at link nimbletechng.com/wp-content/themes/salient/css/img/prettyPhoto/dark_rounded/loader.gif (from nimbletechng.com/wp-content/themes/salient/css/prettyPhoto.css?ver=7.0.1)
+10:09:18	Error: 	"Not Found" (404) at link nimbletechng.com/wp-content/themes/salient/img/icons/social/vimeo-header-black.png (from nimbletechng.com/wp-content/themes/salient/style.css?ver=7.0.7)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 9 seconds : 185 links scanned, 174 files written (6868788 bytes overall) [6917088 bytes received at 27779 bytes/sec], 4.5 requests per connection
+(9 errors, 1 warnings, 0 messages)
